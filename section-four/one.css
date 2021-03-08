@@ -1,14 +1,30 @@
 body {
-    background-color: grey;
+    color: red;
+    text-align: center;
+    background-image:url(https://image.freepik.com/free-vector/3d-triangle-shape-vivid-colors-theme-background_23-2148417307.jpg);
+    background-repeat: no-repeat;
+    font-size: 30;
 }
 h1
 {
+    text-align: center;
     color: red;
     background-color: black;
-}
+    font-family: impact;
+    ;
+}       
 
 p
 {
-    color: red;
-    background-color: black;
+    text-align: left;
+    color: rgb(255,104,60);
+    background-color: white;
+    font-size: 30;
+    text-transform: uppercase;
+    text-indent: 67;
+    text-decoration: blink;
 }
+
+
+
+
