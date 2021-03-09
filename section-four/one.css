@@ -4,6 +4,9 @@ body {
     background-image:url(https://image.freepik.com/free-vector/3d-triangle-shape-vivid-colors-theme-background_23-2148417307.jpg);
     background-repeat: no-repeat;
     font-size: 30;
+    font-style: italic;
+    font-family: Georgia, serif;
+    font-weight: 900;
 }
 h1
 {
@@ -11,6 +14,7 @@ h1
     color: red;
     background-color: black;
     font-family: impact;
+    font-style: normal
     ;
 }       
 
@@ -23,6 +27,8 @@ p
     text-transform: uppercase;
     text-indent: 67;
     text-decoration: blink;
+    font-family: fantasy;
+    font-weight: bold;
 }
 
 

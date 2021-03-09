@@ -1,0 +1,58 @@
+body {
+    color: magenta;
+    text-align: left;
+    font-size: 30;
+    font-family: Georgia, serif;
+}
+h1
+{
+    text-align: left;
+    color: orange;
+    background-color: black;
+    font-family: impact;
+    font-size: 40;
+}       
+
+p
+{
+    text-align: left;
+    color: black;
+    font-size: 30;
+    font-family: Impact;
+}
+
+ul
+{
+    font-size: 40;
+    list-style-type: square;
+}
+ol
+{
+    font-size: 40;
+    list-style-type: square;
+}
+
+table
+{
+    border: 5px solid black;
+    background-color: grey;
+}
+
+th
+{
+    color: orange;
+    font-size: 20;
+    border: 1px solid black;
+    background-color: black;
+}
+
+td
+{
+    color: red;
+    font-size: 20;
+    border: 1px solid black;
+}
+
+
+
+
