@@ -4,11 +4,12 @@ body {
     font-size: 30;
     font-family: Georgia, serif;
 }
-h1
+
+.topHeader
 {
     text-align: left;
     color: orange;
-    background-color: grey;
+    background-color: black;
     font-family: impact;
     font-size: 40;
     padding: 30px;
@@ -19,8 +20,37 @@ h1
     border-bottom-width: 30px;
 
     margin: 100 100 100 100;
-    
-}       
+}
+
+.tableRow1
+{
+    background-color: gold;
+}
+
+
+.tableRow2
+{
+    background-color: rgb(0, 255, 170);
+}
+
+.spanClass
+{
+    color: teal;
+    background-color: rgb(139, 37, 139);
+}
+
+.topHeader2
+{
+    background-color: maroon;
+}
+
+
+h1
+{
+    background-color: mediumspringgreen;
+    color: white;
+}
+       
 
 p
 {
