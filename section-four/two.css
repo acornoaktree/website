@@ -39,6 +39,32 @@ body {
     background-color: rgb(139, 37, 139);
 }
 
+.tableHeader1
+{
+    color :red
+}
+
+.tableHeader2
+{
+    color :orange
+}
+
+.tableHeader3
+{
+    color :blue
+}
+
+.tableHeader4
+{
+    color :green
+}
+.tabledata1
+{
+    font-family: 'Courier New', Courier, monospace ;
+    text-align: center;
+    background-color: burlywood;
+}
+
 .topHeader2
 {
     background-color: maroon;
@@ -50,7 +76,50 @@ h1
     background-color: mediumspringgreen;
     color: white;
 }
-       
+
+.listitem1
+{
+    background-color: palegreen;
+}
+
+.listitem2
+{
+    background-color: palevioletred;
+}
+
+.listitem3
+{
+    background-color: powderblue;
+}
+
+.listitem4
+{
+    background-color: green
+}
+
+.unorderedlist1
+{
+    background-color: royalblue;
+    color: orange;
+}
+
+.unorderedlist2
+{
+    background-color: rebeccapurple;
+    color:blue;
+}
+
+.orderedlist1
+{
+    background-color: cadetblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.orderedlist2
+{
+    background-color: olive;
+    font-family: 'Tahoma', Geneva, Verdana, sans-serif;
+}
 
 p
 {
@@ -62,7 +131,7 @@ p
 
 ul
 {
-    font-size: 40;
+    font-size: 20;
     list-style-type: square;
 }
 ol
