@@ -1,15 +1,17 @@
-var a = 10, b = 2;
+var income =  12
+var bankAccount = 0
+var debt = 5
 
 function myAwesomeFunction(){
-    a = a + 1;
-    b = b + 1;
-    
-    document.getElementById("change").innerHTML = "This is how much money you have: $" + a;
-    document.getElementById("headerChange").innerHTML = "This is how much money you owe: $" + b;
-    document.getElementById("result").innerHTML = "This is how much money you have left: $" + (a - b);
+    bankAccount = bankAccount + income;
+
+    document.getElementById("headerChange").innerHTML = "This is how much money you owe: $" + debt
+    document.getElementById("result").innerHTML = "This is how much money you have left: $" + (bankAccount - debt)
+    bankAccount = bankAccount - debt;
+    document.getElementById("change").innerHTML = "Bank account: $" + bankAccount
 }
 
 function myAwesomeFunction2(){
-    a = 40;
-    b = 50;
+    document.getElementById("income").innerHTML = "This is your total income: $" + income
 }
+
