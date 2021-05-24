@@ -1,0 +1,32 @@
+.h1
+{
+    color: rgb(167, 27, 51);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(255, 191, 118);
+}
+
+.button
+{
+    color: green;
+    
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.button2
+{
+    color: red;
+    
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.number
+{
+    color: rgb(167, 27, 51);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: x-large;
+    background-color:rgb(213, 255, 246);
+}
+
+
