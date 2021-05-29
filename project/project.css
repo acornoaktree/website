@@ -1,0 +1,25 @@
+.project
+{
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-weight:800;
+     color: rgb(159, 245, 135);
+     background-color: rgb(102, 102, 189);
+     border: rgb(158, 55, 255);
+     border-left-width: 5px;
+     border-right-width: 5px;
+     border-top-width: 5px;
+     border-bottom-width: 20px;
+     
+}
+
+.class
+{
+    background-color: rgb(99, 177, 177);
+}
+
+.list
+{
+    background-color: rgb(102, 102, 189);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(159, 245, 135);
+}
