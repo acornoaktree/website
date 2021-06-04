@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="index.js"></script>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <h1 class="h1"> Tip Calculator</h1>
+        <label for="bill" class="bill"><b>Bill</b></label>
+        <input  class="input" type="number" oninput="calculateTotalBill()" id="bill" name="bill" min="0">
+        <label class="Tip" for="tip"><b> Tip %</b></label>
+        <input class="input" type="number" id="tip" name="tip" min="0" max="100" value="10">
+        <label class="Bill" for="total-bill"><b>Total bill :</b></label>
+        <output type = number name="total-bill" id="total-bill" for="bill tip">0</output>
+         
+    </body>
+</html>
