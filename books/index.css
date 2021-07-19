@@ -42,12 +42,12 @@ a:visited
 
 a:hover
 {
-    color: #210070;
+    color: teal;
 }
 
 a:active
 {
-    color: teal
+    color:teal;
 
 }
 
@@ -58,4 +58,20 @@ p
     background-color: whitesmoke;
     font-family: sans-serif;
     text-align: center;
+}
+
+table,
+td {
+    border: 1px solid #333;
+}
+th
+{
+    color: #210070;
+}
+
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
 }
